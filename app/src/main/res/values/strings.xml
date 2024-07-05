@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeControl</string>
+    <string name="search">Search</string>
+    <string name="search_room">Search room</string>
+    <string name="search_device">Search device</string>
+    <string name="back_button">Back button</string>
+</resources>
